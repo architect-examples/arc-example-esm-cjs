@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@architect/architect": "^9.5.0-RC.1",
+    "whatev": "^1.0.0"
+  },
+  "scripts": {
+    "start": "arc sandbox"
+  }
+}

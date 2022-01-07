@@ -1,0 +1,4 @@
+{
+  "type": "module",
+  "note": "This file is required by Node.js if you would like to use the .js extension with your ES Module"
+}
