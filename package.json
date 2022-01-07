@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@architect/architect": "^9.5.0-RC.1",
+    "@architect/architect": "~9.5.0",
     "whatev": "^1.0.0"
   },
   "scripts": {
